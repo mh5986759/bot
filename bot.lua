@@ -16,8 +16,8 @@ clr = require 'term.colors'
 db = redis2.connect('127.0.0.1', 6379)
 sudo_users = {
   0,
-  258122756,
-  297195651,
+  342293523,
+  103631172,
   227518848
 }
 
